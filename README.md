@@ -1,4 +1,5 @@
 
+[![Build Status](https://jaybankoff.visualstudio.com/SpaceGame-web-workflow-forked/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://jaybankoff.visualstudio.com/SpaceGame-web-workflow-forked/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
